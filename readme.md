@@ -1,5 +1,5 @@
 # Avinash's planets
 
-Author : Avinash
+Author : Avinash and Arko 
 
 I visited some planets
